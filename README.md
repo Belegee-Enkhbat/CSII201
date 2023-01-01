@@ -1,2 +1,2 @@
 # CSII201
-C programming
+C programming sain hiiwel bolnoo
